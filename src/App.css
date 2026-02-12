@@ -49,6 +49,8 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 3% 6%;
+    max-width: 2000px;
+    margin: auto;
 }
 
 nav {
@@ -148,6 +150,8 @@ nav {
 
 .personal-section {
     position: relative;
+    max-width: 2000px;
+    margin: auto;
 }
 
 .personal-container {
@@ -328,6 +332,8 @@ nav {
 
 .testimonial-section {
     position: relative;
+    max-width: 2000px;
+    margin: auto;
 }
 
 .testimonial-container {
@@ -377,6 +383,7 @@ nav {
     background-color: var(--black-clr);
     color: var(--white-clr);
     padding: 6% 6%;
+    
 }
 
 .footer-link {
