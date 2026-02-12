@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "img": "./assets/img-1.svg",
+        "title": "Brand Journey Improvements",
+        "client": "Organc",
+        "work": "Branding Logo design"
+    },
+        {
+        "id": 2,
+        "img": "./assets/img-2.svg",
+        "title": "Brand Grouping",
+        "client": "FR",
+        "work": "Branding Logo design"
+    },
+    {
+        "id": 3,
+        "img": "./assets/img-3.svg",
+        "title": "NFT Glimps",
+        "client": "Rumanda",
+        "work": "NFT Design"
+    },
+    {
+        "id": 4,
+        "img": "./assets/img-4.svg",
+        "title": "Brand Suggestions",
+        "client": "T3d",
+        "work": "NFT logo"
+    }
+]
