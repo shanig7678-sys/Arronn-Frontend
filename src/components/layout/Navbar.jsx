@@ -17,7 +17,7 @@ const Navbar = () => {
                 <ul className="nav-bar">
                     <li><NavLink to='/'>HOME</NavLink></li>
                     <li><NavLink to='/about'>ABOUT ME</NavLink></li>
-                    <li><NavLink to='/product'>PRODUCT</NavLink></li>
+                    <li><NavLink to='/work'>MY WORKS</NavLink></li>
                 </ul>
                 <button className="header-btn" onClick={handleClick}>
                     CONTACT
